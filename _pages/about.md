@@ -15,18 +15,19 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about'></span>
 
 I am a PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong.
 
 My research focuses on high-dimensional statistics, model averaging, and causal inference, with applications in deep learning and tensor and longitudinal data analysis.
 
-My work has appeared in the *Journal of the American Statistical Association* and other interdisciplinary journals. I also have several ongoing projects under review at leading journals, including the *Annals of Statistics* and *Journal of Computational and Graphical Statistics*.
+My work has appeared in the *Journal of the American Statistical Association*. I also have several ongoing projects under review at leading journals, including the *Annals of Statistics* and *Journal of Computational and Graphical Statistics*.
 
 I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
 ---
 
+<span class='anchor' id='research'></span>
 # 🔬 Research Interests
 
 - Model averaging  
@@ -37,6 +38,7 @@ I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
 ---
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 
 - *2026.01*: Poster presentation at Global Young Scientists Summit, Singapore  
@@ -45,6 +47,7 @@ I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
 ---
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
@@ -65,6 +68,7 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 ---
 
+<span class='anchor' id='workingpapers'></span>
 # 📄 Working Papers
 
 - Longitudinal tensor data learning via optimal model averaging  
@@ -80,6 +84,7 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 ---
 
+<span class='anchor' id='education'></span>
 # 🎓 Education
 
 - PhD in Management Science and Engineering  
@@ -93,6 +98,7 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 ---
 
+<span class='anchor' id='talks'></span>
 # 🎤 Talks
 
 - 2025 Taipei International Statistical Symposium (Invited Talk)  
@@ -101,6 +107,7 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 ---
 
+<span class='anchor' id='awards'></span>
 # 🏆 Honors and Awards
 
 - Hua Luogeng Scholarship, 2024  
@@ -108,6 +115,7 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 ---
 
+<span class='anchor' id='experience'></span>
 # 💻 Experience
 
 - Research Assistant  
