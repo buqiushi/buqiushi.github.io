@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#about"
 
   - title: "Research Interests"
-    url: "/#-research interests"
+    url: "/#-research"
     
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-education"
     
    # - title: "News"
    #  url: "/#-news"
@@ -16,11 +16,11 @@ main:
     url: "/#-publications"
 
    - title: "Working Papers"
-    url: "/#-working papers"
+    url: "/#-workingpapers"
     
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#-talks"
 
