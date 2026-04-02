@@ -91,8 +91,6 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 - Weighted deep ensemble under misspecification  
   (Under review at ICML)
 
-- Tackling high-dimensional challenges in deep neural networks through model averaging  
-
 ---
 
 
