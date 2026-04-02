@@ -100,10 +100,10 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 <span class='anchor' id='talks'></span>
 # 🎤 Talks
-
+- 2026 Global Young Scientists Summit (Poster)  
 - 2025 Taipei International Statistical Symposium (Invited Talk)  
 - 2023 National Symposium on Probability Limit Theory (Invited Talk)  
-- 2026 Global Young Scientists Summit (Poster)  
+
 
 ---
 
