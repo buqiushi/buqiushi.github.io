@@ -16,12 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about'></span>
+# 👋 About Me
 
 I am a PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong.
 
 My research focuses on high-dimensional statistics, model averaging, and causal inference, with applications in deep learning and tensor and longitudinal data analysis.
-
-My work has appeared in the *Journal of the American Statistical Association*. I also have several ongoing projects under review at leading journals, including the *Annals of Statistics* and *Journal of Computational and Graphical Statistics*.
 
 I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
