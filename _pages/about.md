@@ -22,7 +22,7 @@ I am a PhD student in Management Science and Engineering at the University of Ch
 
 My research focuses on high-dimensional statistics, model averaging, and causal inference, with applications in deep learning and tensor and longitudinal data analysis.
 
-I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
+% I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
 ---
 
