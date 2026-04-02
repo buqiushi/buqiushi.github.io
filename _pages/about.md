@@ -37,15 +37,28 @@ I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 - Tensor and longitudinal data analysis  
 
 ---
+<span class='anchor' id='education'></span>
+# 🎓 Education
 
-<span class='anchor' id='news'></span>
+- PhD in Management Science and Engineering  
+  University of Chinese Academy of Sciences, 2021–2026  
+
+- Joint PhD in Biostatistics  
+  City University of Hong Kong, 2024–2026  
+
+- BSc in Mathematics and Applied Mathematics  
+  University of Chinese Academy of Sciences, 2017–2021  
+
+---
+
+<!-- <span class='anchor' id='news'></span>
 # 🔥 News
 
 - *2026.01*: Poster presentation at Global Young Scientists Summit, Singapore  
 - *2025.12*: Invited talk at Taipei International Statistical Symposium  
 - *2025*: Paper accepted at *Journal of the American Statistical Association*  
 
----
+--- -->
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
@@ -84,19 +97,6 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 ---
 
-<span class='anchor' id='education'></span>
-# 🎓 Education
-
-- PhD in Management Science and Engineering  
-  University of Chinese Academy of Sciences, 2021–2026  
-
-- Joint PhD in Biostatistics  
-  City University of Hong Kong, 2024–2026  
-
-- BSc in Mathematics and Applied Mathematics  
-  University of Chinese Academy of Sciences, 2017–2021  
-
----
 
 <span class='anchor' id='talks'></span>
 # 🎤 Talks
@@ -107,16 +107,10 @@ Qiushi Bu, H. Liang, X. Zhang, J. Zou
 
 ---
 
-<span class='anchor' id='awards'></span>
-# 🏆 Honors and Awards
 
-- Hua Luogeng Scholarship, 2024  
-- Mathematical Contest in Modeling, Meritorious Winner, 2019  
 
----
-
-<span class='anchor' id='experience'></span>
+<!-- <span class='anchor' id='experience'></span>
 # 💻 Experience
 
 - Research Assistant  
-  Hong Kong Polytechnic University, 2024  
+  Hong Kong Polytechnic University, 2024   -->
