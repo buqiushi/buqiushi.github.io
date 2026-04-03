@@ -85,6 +85,8 @@ My research focuses on high-dimensional statistics, model averaging, and causal 
 1. Gao, Y., Dong, Y., **Bu, Q.**, Gong, Z., Wang, W., Zhou, Z., Gao, Y., Liu, L., Wu, M., Zhang, J., Liang, L., Li, H., Jiang, M., Luo, Z., Ma, Y., Zhang, X., and Hu, Z. (2024).  
    Antiviral effectiveness, clinical outcomes, and artificial intelligence imaging analysis for hospitalized COVID-19 patients receiving antivirals.  
    *Influenza and Other Respiratory Viruses*, 18(9), e70006. (Co-first author) [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.70006)
+
+   
 ---
 
 <span class='anchor' id='workingpapers'></span>
