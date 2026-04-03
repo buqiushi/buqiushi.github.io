@@ -56,7 +56,7 @@ Outside of research, I enjoy playing basketball and soccer, running, and hiking.
   University of Chinese Academy of Sciences
 
 - **2020.01 – 2020.06**  
-  Visiting Student, Department of Mathematics
+  Visiting Student, Department of Mathematics  
   Columbia University in the City of New York  
 
 <!-- <span class='anchor' id='news'></span>
