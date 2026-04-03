@@ -62,6 +62,7 @@ My research focuses on high-dimensional statistics, model averaging, and causal 
 - *2025*: Paper accepted at *Journal of the American Statistical Association*  
 
 --- -->
+---
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
@@ -127,7 +128,9 @@ My research focuses on high-dimensional statistics, model averaging, and causal 
 1. Brown, N. L., and **Bu, Q.**  
    An averaging alternative to pre-trend testing.  
    *(Working paper)*
-   
+
+---
+
 <span class='anchor' id='talks'></span>
 # 🎤 Talks
 - 2026 Global Young Scientists Summit (Poster)  
