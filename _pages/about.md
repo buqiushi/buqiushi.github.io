@@ -18,10 +18,11 @@ redirect_from:
 <span class='anchor' id='about'></span>
 # 👋 About Me
 
-I am a PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong.
+I am a PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong. I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
-My research focuses on high-dimensional statistics, model averaging, and causal inference, with applications in deep learning and tensor and longitudinal data analysis.
+My research lies at the intersection of high-dimensional statistics, machine learning, and causal inference. In particular, I focus on model averaging methods, tensor and longitudinal data analysis, and their applications in modern deep learning systems. My work aims to develop statistically principled and computationally efficient methodologies for complex data structures and large-scale models.
 
+Outside of research, I enjoy playing basketball and soccer, running, and hiking.
 
 ---
 
@@ -52,7 +53,11 @@ My research focuses on high-dimensional statistics, model averaging, and causal 
 
 - **2017.09 – 2021.06**  
   BSc in Mathematics and Applied Mathematics  
-  University of Chinese Academy of Sciences  
+  University of Chinese Academy of Sciences
+
+- **2020.01 – 2020.06**  
+  Visiting Student, Department of Mathematics
+  Columbia University in the City of New York  
 
 <!-- <span class='anchor' id='news'></span>
 # 🔥 News
@@ -133,9 +138,9 @@ My research focuses on high-dimensional statistics, model averaging, and causal 
 
 <span class='anchor' id='talks'></span>
 # 🎤 Talks
-- 2026 Global Young Scientists Summit (Poster)  
-- 2025 Taipei International Statistical Symposium (Invited Talk)  
-- 2023 National Symposium on Probability Limit Theory (Invited Talk)  
+- 2026 Global Young Scientists Summit, Singapore (Poster)  
+- 2025 Joint Meetings of 2025 Taipei International Statistical Symposium and the 13th ICSA International Conference, Taipei, China (Invited Talk)  
+- 2023 The 13th National Symposium on Probability Limit Theory and Statistical Large Sample Theory, Xi Ning, China (Invited Talk)  
 
 
 ---
