@@ -20,7 +20,7 @@ redirect_from:
 
 I am a PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong. I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
-My research lies at the intersection of high-dimensional statistics, machine learning, and causal inference. In particular, I focus on model averaging methods, tensor and longitudinal data analysis, and their applications in modern deep learning systems. My work aims to develop statistically principled and computationally efficient methodologies for complex data structures and large-scale models.
+My research lies at the intersection of high-dimensional statistics, machine learning, and causal inference. In particular, I focus on model averaging methods, tensor and longitudinal data analysis, and their applications in modern deep learning systems. 
 
 Outside of research, I enjoy playing basketball and soccer, running, and hiking.
 
