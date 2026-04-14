@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about'></span>
 # 👋 About Me
 
-I am a final-year PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong, advised by Prof. Xinyu Zhang and Prof. Wen Su.
+I am a final-year PhD student in Management Science and Engineering at Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong, advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
 My research lies at the intersection of high-dimensional statistics, machine learning, and causal inference. Broadly, I focus on developing model averaging methods for prediction, including approaches for tensor-structured data and neural networks. More recently, I have been working on problems in causal inference with instrumental variables and model averaging methods for difference-in-differences.
 
