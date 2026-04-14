@@ -18,11 +18,15 @@ redirect_from:
 <span class='anchor' id='about'></span>
 # 👋 About Me
 
-I am a PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong. I am advised by Prof. Xinyu Zhang and Prof. Wen Su.
+I am a final-year PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong, advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
-My research lies at the intersection of high-dimensional statistics, machine learning, and causal inference. In particular, I focus on model averaging methods, tensor and longitudinal data analysis, and their applications in modern deep learning systems. 
+My research lies at the intersection of high-dimensional statistics, machine learning, and causal inference. Broadly, I focus on developing model averaging methods for prediction, including approaches for tensor-structured data and neural networks. More recently, I have been working on problems in causal inference with instrumental variables and model averaging methods for difference-in-differences.
 
-Outside of research, I enjoy playing basketball and soccer, running, and hiking.
+In addition to methodological work, I am also interested in applying statistical methods to real-world problems. I have been collaborating with clinicians on medical data analysis, working with Dr. Yuan Gao at Beijing YouAn Hospital on projects related to COVID-19 and liver diseases, with a focus on statistical modeling for clinical and observational data.
+
+I am always open to collaborations on model averaging, causal inference, and machine learning.
+
+Outside of my research, I enjoy staying active through basketball, football, and hiking.
 
 ---
 
@@ -74,23 +78,23 @@ Outside of research, I enjoy playing basketball and soccer, running, and hiking.
 
 1. **Bu, Q.**, Liang, H., Zhang, X., and Zou, J. (2025).  
    Improving tensor regression by optimal model averaging.  
-   *Journal of the American Statistical Association*, 120(550), 1115–1126. [paper](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2398164)
+   *Journal of the American Statistical Association*, 120(550), 1115–1126. [link](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2398164)
 
 1. Zhang, H., **Bu, Q.**, and Zhang, X. (2025).  
    Model merging with multiple structural neural networks for crude oil price forecasting.  
-   *China Journal of Econometrics*, 5(4), 1053–1071. [paper](https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2025-0123)
+   *China Journal of Econometrics*, 5(4), 1053–1071. [link](https://cjoe.cjoe.ac.cn/CN/10.12012/CJoE2025-0123)
 
 1. Gao, Y., Zhang, J., Liu, M., **Bu, Q**., Li, C., Yang, W., Li, J., Xiong, W., Liang, X., Zhang, K., Dong, Y., Zhou, L., Zhuang, J., Gong, Z., Gao, Y., Fu, L., Lu, H., Zhang, X., and Hu, Z. (2025).  
    Superior antiviral efficacy of combined 3CL protease and RdRp inhibition compared to 3CL protease inhibitor monotherapy in hospitalized COVID-19 patients.  
-   *Journal of Infection*, 90(6), 106502. (Co-first author) [paper](https://www.journalofinfection.com/article/S0163-4453(25)00096-9/fulltext)
+   *Journal of Infection*, 90(6), 106502. (Co-first author) [link](https://www.journalofinfection.com/article/S0163-4453(25)00096-9/fulltext)
 
 1. Gao, Y., Gao, Y., Shi, R., Ji, D., Wang, Y., Xu, L., Wang, Q., Wu, M., You, H., **Bu, Q.**, Dong, Y., Zhou, L., Liu, W., Song, Q., Han, Y., Wei, H., Zhang, X., and Hu, Z. (2025).  
    Effect of empagliflozin on fractional excretion of sodium in patients with cirrhosis and refractory ascites.  
-   *World Journal of Hepatology*, 17(10), 110247. (Co-first author) [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12576750/)
+   *World Journal of Hepatology*, 17(10), 110247. (Co-first author) [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12576750/)
    
 1. Gao, Y., Dong, Y., **Bu, Q.**, Gong, Z., Wang, W., Zhou, Z., Gao, Y., Liu, L., Wu, M., Zhang, J., Liang, L., Li, H., Jiang, M., Luo, Z., Ma, Y., Zhang, X., and Hu, Z. (2024).  
    Antiviral effectiveness, clinical outcomes, and artificial intelligence imaging analysis for hospitalized COVID-19 patients receiving antivirals.  
-   *Influenza and Other Respiratory Viruses*, 18(9), e70006. (Co-first author) [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.70006)
+   *Influenza and Other Respiratory Viruses*, 18(9), e70006. (Co-first author) [link](https://onlinelibrary.wiley.com/doi/full/10.1111/irv.70006)
 
    
 ---
