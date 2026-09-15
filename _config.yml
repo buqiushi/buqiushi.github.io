@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiushi Bu"
-description              : "I am a PhD student in Management Science and Engineering at the University of Chinese Academy of Sciences. "
+description              : "I am a postdoctoral researcher at Columbia University, working on model averaging, machine learning, and causal inference."
 repository               : "buqiushi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiushi Bu"
   avatar           : "images/p2.jpg"
-  bio              : "UCAS"
-  location         : "Beijing, China"
+  bio              : "Columbia University"
+  location         : "New York, NY"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "buqiushi17@mails.ucas.ac.cn"
+  email            : "qb2135@cumc.columbia.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
