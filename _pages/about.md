@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about'></span>
 # 👋 About Me
 
-I am a final-year PhD student in Management Science and Engineering at Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, and a joint PhD student in Biostatistics at City University of Hong Kong, advised by Prof. Xinyu Zhang and Prof. Wen Su.
+I am a postdoctoral researcher at Columbia University. I received my PhD in Management Science and Engineering from the Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, and was a joint PhD student in Biostatistics at City University of Hong Kong, advised by Prof. Xinyu Zhang and Prof. Wen Su.
 
-My research lies at the intersection of high-dimensional statistics, machine learning, and causal inference. Broadly, I focus on developing model averaging methods for prediction, including approaches for tensor-structured data and neural networks. More recently, I have been working on problems in causal inference with instrumental variables and model averaging methods for difference-in-differences.
+My research lies at the intersection of model averaging, machine learning, and causal inference. Broadly, I focus on developing model averaging methods for prediction, including approaches for tensor-structured data and neural networks. More recently, I have been working on problems in causal inference with instrumental variables and model averaging methods for difference-in-differences.
 
 In addition to methodological work, I am also interested in applying statistical methods to real-world problems. I have been collaborating with clinicians on medical data analysis, working with Dr. Yuan Gao at Beijing YouAn Hospital on projects related to COVID-19 and liver diseases, with a focus on statistical modeling for clinical and observational data.
 
@@ -42,6 +42,10 @@ Outside of my research, I enjoy staying active through basketball, football, and
 ---
 <span class='anchor' id='education'></span>
 # 💻 Experience
+
+- **2026.09– Present**
+  Postdoctoral Researcher Scientist
+  Columbia University
 
 - **2021.09 – 2026.06**  
   PhD in Management Science and Engineering  
