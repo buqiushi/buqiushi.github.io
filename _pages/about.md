@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about'></span>
 # 👋 About Me
 
-I am a postdoctoral researcher at Columbia University. I received my PhD in Management Science and Engineering from the Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, and was a joint PhD student in Biostatistics at City University of Hong Kong, advised by Prof. Xinyu Zhang and Prof. Wen Su.
+I am a postdoctoral researcher at Columbia University. I received PhD degrees in Management Science and Engineering from the Academy of Mathematics and Systems Science, University of Chinese Academy of Sciences, and in Biostatistics from City University of Hong Kong, under the supervision of Prof. Xinyu Zhang and Prof. Wen Su.
 
 My research lies at the intersection of model averaging, machine learning, and causal inference. Broadly, I focus on developing model averaging methods for prediction, including approaches for tensor-structured data and neural networks. More recently, I have been working on problems in causal inference with instrumental variables and model averaging methods for difference-in-differences.
 
@@ -43,7 +43,7 @@ Outside of my research, I enjoy staying active through basketball, football, and
 <span class='anchor' id='education'></span>
 # 💻 Experience
 
-- **2026.09– Present**
+- **2026.09– Present**  
   Postdoctoral Researcher Scientist
   Columbia University
 
