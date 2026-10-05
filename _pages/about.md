@@ -44,7 +44,7 @@ Outside of my research, I enjoy staying active through basketball, football, and
 # 💻 Experience
 
 - **2026.09– Present**  
-  Postdoctoral Researcher Scientist
+  Postdoctoral Researcher Scientist  
   Columbia University
 
 - **2021.09 – 2026.06**  
@@ -94,7 +94,7 @@ Outside of my research, I enjoy staying active through basketball, football, and
 
 1. Gao, Y., Gao, Y., Shi, R., Ji, D., Wang, Y., Xu, L., Wang, Q., Wu, M., You, H., **Bu, Q.**, Dong, Y., Zhou, L., Liu, W., Song, Q., Han, Y., Wei, H., Zhang, X., and Hu, Z. (2025).  
    Effect of empagliflozin on fractional excretion of sodium in patients with cirrhosis and refractory ascites.  
-   *World Journal of Hepatology*, 17(10), 110247. (Co-first author) [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12576750/)
+   *World Journal of Hepatology*, 17(10), 110247. [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12576750/)
    
 1. Gao, Y., Dong, Y., **Bu, Q.**, Gong, Z., Wang, W., Zhou, Z., Gao, Y., Liu, L., Wu, M., Zhang, J., Liang, L., Li, H., Jiang, M., Luo, Z., Ma, Y., Zhang, X., and Hu, Z. (2024).  
    Antiviral effectiveness, clinical outcomes, and artificial intelligence imaging analysis for hospitalized COVID-19 patients receiving antivirals.  
