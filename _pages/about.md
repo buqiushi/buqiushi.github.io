@@ -55,17 +55,10 @@ Outside of my research, I enjoy staying active through basketball, football, and
   Joint PhD in Biostatistics  
   City University of Hong Kong
 
-- **2024.05 – 2024.09**  
-  Research Assistant, Department of Applied Mathematics  
-  The Hong Kong Polytechnic University  
-
 - **2017.09 – 2021.06**  
   BSc in Mathematics and Applied Mathematics  
   University of Chinese Academy of Sciences
 
-- **2020.01 – 2020.06**  
-  Visiting Student, Department of Mathematics  
-  Columbia University in the City of New York  
 
 <!-- <span class='anchor' id='news'></span>
 # 🔥 News
